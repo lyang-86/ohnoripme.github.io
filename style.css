@@ -1,0 +1,15 @@
+body{
+  background-color: #FCEEA7;
+  background-image: none;
+}
+p{
+  font-size: 1em;
+  line-height: 1.6em;
+  font-family: Futura,"Trebuchet MS",Arial,sans-serif
+}
+
+h1, h2{
+  color: #0C1EA0;
+  font-size: 2em;
+  font-family: "Gill Sans","Gill Sans MT",Calibri,sans-serif
+}
